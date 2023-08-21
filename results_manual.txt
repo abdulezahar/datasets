@@ -1,0 +1,2 @@
+Dataset	Algorithm	CV_Technique	CV_Accuracy (%)	NO_OF_Iterations	BSTP_Accuracy (%)
+Lung Cancer	KNN	StratifiedKFold	87.73%	500 Iterations	90.61%
